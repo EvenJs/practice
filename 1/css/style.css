@@ -1,0 +1,32 @@
+body {
+  background-image: url("../img/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.title {
+  font-size: 4rem;
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 5%;
+  font-family: "Permanent Marker", cursive;
+}
+
+.timer__container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.timer__container div {
+  margin-left: 3%;
+}
+.timer__container div p {
+  font-size: 5rem;
+}
+.timer__container div span {
+  font-size: 3rem;
+}
+
+/*# sourceMappingURL=style.css.map */
